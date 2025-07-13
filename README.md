@@ -63,4 +63,4 @@ Administrators will be able to create and modify activities—defining the infor
 
 Players, meanwhile, will be able to view and participate in the activities they have been registered for. When starting an activity, a map is displayed; players must follow the route and register NFC devices located at key points along the way. They can also view and modify their user information.
 
-You can find a demo video of the application at: 
+You can find a demo video of the application at: https://drive.google.com/file/d/1zFjiqoLAp9qnnH0xT4PS5LjWo30gzlsq/view?usp=sharing 
