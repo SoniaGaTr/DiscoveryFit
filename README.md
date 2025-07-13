@@ -11,6 +11,8 @@ Author: Sonia Gallego Trapero [SoniaGaTr](https://github.com/SoniaGaTr)
 
 Tutor: Raúl Alonso Calvo [raulalonsoc](https://github.com/raulalonsoc)
 
+*⚠️ NOTE: The original repository containing the code is private, but I want to share the README and the final report of my TFG.⚠️*
+
 ## Table of Contents
 
 * [Download project](#download-project)
